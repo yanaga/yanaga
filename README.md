@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Edson Yanaga!
 ###### *Developer Advocate*
 
-Edson Yanaga, Red Hat's Director of Developer Experience, is a Java Champion and a Microsoft MVP. He is also a published author and a frequent speaker at international conferences, discussing Java, Microservices, Cloud Computing, DevOps, and Software Craftsmanship. 
+Edson Yanaga, Red Hat’s Director of Developer Experience, is a Java Champion and a Microsoft MVP. He is also a published author and a frequent speaker at international conferences, discussing Java, Kubernetes, Quarkus, Microservices, Cloud Computing, and DevOps.
 
-Yanaga considers himself a software craftsman, and is convinced that we all can create a better world for people with better software. His life's purpose is to deliver and help developers worldwide to deliver better software faster and safely - and he can even call that a job!
+Yanaga believes that everything we do, big or small, matters - and that we can all create a better world for people with better software. His life’s purpose is to deliver good software and to help developers worldwide in delivering better software faster and reliably. Today his job, his hobby, and his life’s purpose are the same thing: and he’s happy that he found his [Ikigai](https://en.wikipedia.org/wiki/Ikigai).
 
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yanaga)
